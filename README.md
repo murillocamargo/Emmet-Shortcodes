@@ -5,4 +5,4 @@
 
 ## wordpress main-content
 
-> div#main-content.container>.row>article>.the_single>((header.the_title>h1)+(.the_content>p))   
+> div#main-content.container>.row>article.the_single>((header.the_title>h1)+(.the_content>p))   
