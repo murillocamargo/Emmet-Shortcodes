@@ -6,3 +6,7 @@
 ## wordpress main-content
 
 > div#main-content.container>.row>article.the_single>((header.the_title>h1)+(.the_content>p))   
+
+## Header padrão
+
+> header#header>.container>.row>(.col-md-4>.logo>h1>img)+(.col-md-8>nav#main-nav>ul>li*4)|c
