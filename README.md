@@ -5,7 +5,7 @@
 
 ## wordpress main-content
 
-> div#main-content.container>.row>article.the_single>((header.the_title>h1)+(.the_content>p*2>lorem))|c   
+> div#main-content.container>.row>article.the_single>((header.the_title>h1)+(.the_content>p*2>lorem50))|c   
 
 ## Header padrão
 
