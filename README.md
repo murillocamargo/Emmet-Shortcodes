@@ -7,6 +7,6 @@
 
 > div#main-content.container>.row>article.the_single>((header.the_title>h1)+(.the_content>p*2>lorem50))|c   
 
-## Header padrão
+## Bootstrap Header padrão ( Logo - Menu )
 
 > header#header>.container>.row>(.col-md-4>.logo>h1>img)+(.col-md-8>nav#main-nav>ul>li*4)|c
