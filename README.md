@@ -9,4 +9,4 @@
 
 ## Bootstrap Header padrão ( Logo - Menu )
 
-> header#header>.container>.row>(.col-md-4>.logo>h1>img)+(.col-md-8>nav#main-nav>ul>li*4)|c
+> header#header>.container>.row>(.col-md-4>.logo>h1>img)+(.col-md-8>nav#main-nav>ul>(li>a)*7)|c
