@@ -9,4 +9,8 @@
 
 ## Bootstrap Header padrão ( Logo - Menu )
 
-> header#header>.container>.row>(.col-md-4>.logo>h1>img)+(.col-md-8>nav#main-nav>ul>(li>a)*7)|c
+> header#header>.container>.row>(.col-md-4>.logo>h1>a>img)+(.col-md-8>nav#main-nav>ul>(li>a)*7)|c
+
+## Slider padrão somente imagens
+
+> (#slider-container>.container>.row>#slider>(.cycle-prev.left+.cycle-next.right)+(a.item.image>img.thumbnail-slider)+.cycle-pager)+.clearfix|c
