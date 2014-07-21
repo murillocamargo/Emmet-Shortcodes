@@ -17,4 +17,4 @@
 
 ## Footer padrão
 
-> .container>.row>(.col-sm3.col-md-3>ul.social-media>li*3>a)+(.col-sm-6.col-md-6>p.copyright)+(.col-sm-3.col-md-3>a.conecte)|c
+> .container>.row>(.col-sm-3.col-md-3>ul.social-media>li*3>a)+(.col-sm-6.col-md-6>p.copyright)+(.col-sm-3.col-md-3>a.conecte)|c
